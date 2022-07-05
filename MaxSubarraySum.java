@@ -1,5 +1,5 @@
-public class MaxSubarraySum {
-    public int f(int[] nums) {
+public class Main {
+    public static int f(int[] nums) {
         int n = nums.length;
         int res = Integer.MIN_VALUE;
         int curr = 0;
